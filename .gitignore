@@ -186,7 +186,6 @@ $RECYCLE.BIN/
 *.jpg
 *.jpeg
 *.svg
-*.pdf
 
 # Large data files (uncomment if you want to exclude them)
 # dataset/
