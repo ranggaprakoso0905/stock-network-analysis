@@ -155,4 +155,3 @@ This project is part of academic coursework and is intended for educational purp
 
 ---
 
-*For detailed methodology, results, and interpretations, please refer to the complete analysis in `stock analysis.ipynb` and the academic report `S2714494.pdf`.*
